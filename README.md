@@ -5,4 +5,4 @@ Simple Andriod Application that books pet services based on the service the user
 ## Installation
 
 ```bash
-git clon
+gh repo clone dalia-atari/Pet-Services
